@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobikodeAssignment</string>
+
+    <string name="book_id_str">Id:</string>
+    <string name="pub_date_str">Publication Date:</string>
+    <string name="article_type_str">Article Type:</string>
+    <string name="abstract_str">Abstract:</string>
+</resources>
